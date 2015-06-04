@@ -1,0 +1,6 @@
+framework module PlusoSDK {
+  umbrella header "PlusoSDK.h"
+
+  export *
+  module * { export * }
+}
