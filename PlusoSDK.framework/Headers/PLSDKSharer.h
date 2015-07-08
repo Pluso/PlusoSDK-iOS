@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 #import "PLSDKConstants.h"
-@import MessageUI;
+#import <MessageUI/MessageUI.h>
 
 @interface PLSDKSharer : NSObject
 
